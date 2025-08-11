@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.Form1.resources
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.Properties.Resources.resources
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\bin\Debug\DienNuoc.exe.config
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\bin\Debug\DienNuoc.exe
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\bin\Debug\DienNuoc.pdb
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.exe
+C:\Users\Admin\Desktop\dien nuoc\DienNuoc\obj\Debug\DienNuoc.pdb
